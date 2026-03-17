@@ -26,7 +26,13 @@ To understand what drives revenue in an e-commerce platform by analyzing:
 2. Top Products by Revenue  
 3. Monthly Revenue Trend  
 4. Revenue by Category (Ranked)  
-5. Average Order Value  
+5. Average Order Value
+
+## Key Insights
+- Top customers contribute significantly to total revenue, indicating high-value user segments
+- Outerwear & Coats is the highest revenue-generating category, suggesting strong product demand
+- Revenue shows consistent growth over time, indicating positive sales trends
+- High-value products drive stronger revenue performance, highlighting pricing impact
 
 ## Dataset
 Google BigQuery Public Dataset: thelook_ecommerce
