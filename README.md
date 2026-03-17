@@ -37,5 +37,18 @@ To understand what drives revenue in an e-commerce platform by analyzing:
 ## Dataset
 Google BigQuery Public Dataset: thelook_ecommerce
 
+## Sample Outputs
+
+### Top Customers by Spend
+![Top Customers](query_top_customers.PNG)
+
+### Revenue by Category
+![Category Revenue](query_top_categories.PNG)
+
+### Monthly Revenue Trend
+![Revenue Trend](query_product_revenue.PNG)
+
+### Average Order Value
+![AOV](query_avgorder.png)
 ## Tools Used
 - SQL (Google BigQuery)
